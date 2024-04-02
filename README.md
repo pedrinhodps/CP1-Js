@@ -1,2 +1,2 @@
 # CP1-Js
-CP1 de javaScript
+Nomes: Gabriel Barros(RM556309), João Marcelo(RM555199), Pedro H. Bizzo(RM557263), Pedro H. Mendes(RM555332)
